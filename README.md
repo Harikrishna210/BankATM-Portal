@@ -11,11 +11,12 @@ It allows users to perform basic banking operations such as login, balance inqui
 
 ## 🚀 Features
 - User Login with PIN authentication
-- Check account balance
+- BalanceEnquiry (Check account balance)
 - Deposit money
 - Withdraw money
 - FastCash
 - View mini statement (recent transactions)
+- ChangePin
 - Exit/Logout functionality
 
 ---
